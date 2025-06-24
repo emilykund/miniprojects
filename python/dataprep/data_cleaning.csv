@@ -1,0 +1,6 @@
+id,name,date_column
+1,Alice,2025/01/01
+2,Bob,01-02-2025
+2,Bob,
+4,David,"March 4, 2025"
+5,,2025.05.05
