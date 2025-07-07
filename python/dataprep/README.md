@@ -63,7 +63,7 @@ By automating early-stage data cleaning, this script:
 
 ## 🖼️ Screenshot
 
-![Screenshot 2025-07-07 at 11 46 38 AM](https://github.com/user-attachments/assets/7baa85cd-a99b-4775-8348-2fead848c9fe)
+![Screenshot 2025-07-07 at 6 51 05 PM](https://github.com/user-attachments/assets/fd471228-20d2-42f9-b410-3db4b1993b4e)
 
 
 
