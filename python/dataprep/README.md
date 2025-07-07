@@ -2,7 +2,7 @@
 
 ## 📌 Executive Summary
 
-This project contains a straightforward Python script for data cleaning. The script performs the following tasks:
+This project contains a simple, straightforward Python script for data cleaning that an everyday analyst with a little bit of Python knowledge (or help from a LLM like ChatGPT) can implement. The script performs the following tasks:
 
 - Loads a raw dataset from a CSV file
 - Removes duplicate columns and rows
