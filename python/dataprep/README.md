@@ -66,6 +66,5 @@ By automating early-stage data cleaning, this script:
 ![Screenshot 2025-07-07 at 11 46 38 AM](https://github.com/user-attachments/assets/7baa85cd-a99b-4775-8348-2fead848c9fe)
 
 
-Recommendations:
 
 
